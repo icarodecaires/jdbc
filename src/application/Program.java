@@ -15,12 +15,12 @@ import db.DbIntegrityException;
 public class Program {
 
 	public static void main(String[] args) {
-
 		//recuperandoDados();
 		//inserindoDados();
 		//atualizandoDados();
 		//deletarDados();
 		transacoes();
+		
 	}
 	
 	public static void transacoes() {
